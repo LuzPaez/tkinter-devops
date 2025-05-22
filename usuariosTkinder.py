@@ -4,6 +4,7 @@ from tkinter import messagebox
 
 # ####   ESTE ES UN CAMBIO REALIZADO  #####
 
+#### 21/05/2025
 
 # Conexión a la base de datos
 def conectar_db():
